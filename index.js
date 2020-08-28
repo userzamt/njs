@@ -2,7 +2,7 @@
 	author: ilya
 */
 
-const args = require("minimist")(process.argv.slice(2))
+//const args = require("minimist")(process.argv.slice(2))
 
 const http = require("http")
 const hostname = "127.0.0.1"
